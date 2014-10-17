@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xan:home|Door43 (xan)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xan|d43-xan repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xan/archive/master.zip|d43-xan.zip]]
+
+**Recent Changes**
+{{changes>ns = xan}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xan|Ethnologue data]]
+
