@@ -1,0 +1,25 @@
+//Translation for the unfoldingWord mobile app interface//
+
+//በሞባይል ቴሌፎን ጥቅም ላይ የሚውል የተገለጠው ቃል ትርጉም //
+
+Select a language: ቋንቋ ምረጥ
+
+Chapters: ምዕራፎች
+
+Languages: ቋንቋዎች
+
+Next chapter : የሚቀጥለው ምዕራፍ
+
+OK : ይሁን
+
+Cancel : ይሰረዝ
+
+Save locally : በአካባቢህ ይቀመጥ
+
+Save this string: ይህን ስትሪንግ አስቀምጠው
+
+Save this language locally for offline use: ኢንተርኔት ሳይኖር ለመጠቀም ይህን ቋንቋ በአካባቢህ አስቀምጠው
+
+Remove locally : ከአካባቢህ አስወግደው
+
+Remove this string: ኢንተርኔት ሳይኖር ከምትጠቀምበት ማስቀመጫ ይህን ቋንቋ አስወግደው። ለወደፊቱ ልትጠቀምበት ከፈለግህ የኢንተርኔት መስመር ሊኖርህ ይገባል።
